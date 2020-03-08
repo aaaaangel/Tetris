@@ -13,4 +13,4 @@ make
 Tetris
 ```
 
-![demo](/Users/angel/OneDrive - tongji.edu.cn/其他/Tetris/demo.png)
+![demo](./demo.png)
